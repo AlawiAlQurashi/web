@@ -61,7 +61,7 @@ section {
 }
 
 .main h2 {
-    color: #579EB2;
+    color: #fff;
     font-size: 1.5em;
     font-weight: 500;
 }
@@ -75,7 +75,7 @@ section {
 }
 
 .main h3 {
-    color: #579EB2;
+    color: #fff;
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 1px;
@@ -84,7 +84,7 @@ section {
 }
 
 .main-btn {
-    color: #579EB2;
+    color: #fff;
     background-color: #3a6cf4;
     text-decoration: none;
     font-size: 1.1em;
@@ -103,7 +103,7 @@ section {
 }
 
 .social-icons a {
-    color: #579EB2;
+    color: #fff;
     font-size: 1.7em;
     padding-right: 30px;
 }
@@ -173,8 +173,8 @@ section {
 }
 
 .project-card {
-    background-color: #579EB2;
-    border: 1px solid #579EB2;
+    background-color: #fff;
+    border: 1px solid #fff;
     min-height: 14em;
     width: 23em;
     overflow: hidden;
@@ -244,7 +244,7 @@ section {
 
 .footer {
     background-color: #000016;
-    color: #579EB2;
+    color: #fff;
     padding: 2em;
     display: flex;
     justify-content: space-between;
